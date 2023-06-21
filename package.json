@@ -1,0 +1,16 @@
+{
+  "name": "create-server-get-post-nodejs",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "create a localhost server with NodeJS and use get / post api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "uid": "^2.0.2",
+    "zod": "^3.21.4"
+  }
+}
